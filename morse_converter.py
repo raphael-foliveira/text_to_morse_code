@@ -7,4 +7,3 @@ def convert_text_to_morse(text: str):
     for code in converted_text_list:
         converted_text += code
     return converted_text
-
